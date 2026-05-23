@@ -1,0 +1,14 @@
+D:\code code\Week3\Scripture Memorizer Program\bin\Debug\net10.0\Scripture Memorizer Program.exe
+D:\code code\Week3\Scripture Memorizer Program\bin\Debug\net10.0\Scripture Memorizer Program.deps.json
+D:\code code\Week3\Scripture Memorizer Program\bin\Debug\net10.0\Scripture Memorizer Program.runtimeconfig.json
+D:\code code\Week3\Scripture Memorizer Program\bin\Debug\net10.0\Scripture Memorizer Program.dll
+D:\code code\Week3\Scripture Memorizer Program\bin\Debug\net10.0\Scripture Memorizer Program.pdb
+D:\code code\Week3\Scripture Memorizer Program\obj\Debug\net10.0\Scripture Memorizer Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\code code\Week3\Scripture Memorizer Program\obj\Debug\net10.0\Scripture Memorizer Program.AssemblyInfoInputs.cache
+D:\code code\Week3\Scripture Memorizer Program\obj\Debug\net10.0\Scripture Memorizer Program.AssemblyInfo.cs
+D:\code code\Week3\Scripture Memorizer Program\obj\Debug\net10.0\Scripture Memorizer Program.csproj.CoreCompileInputs.cache
+D:\code code\Week3\Scripture Memorizer Program\obj\Debug\net10.0\Scripture Memorizer Program.dll
+D:\code code\Week3\Scripture Memorizer Program\obj\Debug\net10.0\refint\Scripture Memorizer Program.dll
+D:\code code\Week3\Scripture Memorizer Program\obj\Debug\net10.0\Scripture Memorizer Program.pdb
+D:\code code\Week3\Scripture Memorizer Program\obj\Debug\net10.0\Scripture Memorizer Program.genruntimeconfig.cache
+D:\code code\Week3\Scripture Memorizer Program\obj\Debug\net10.0\ref\Scripture Memorizer Program.dll
