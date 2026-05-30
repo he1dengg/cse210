@@ -1,0 +1,14 @@
+D:\code code\Week4\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.exe
+D:\code code\Week4\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.deps.json
+D:\code code\Week4\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.runtimeconfig.json
+D:\code code\Week4\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.dll
+D:\code code\Week4\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.pdb
+D:\code code\Week4\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.GeneratedMSBuildEditorConfig.editorconfig
+D:\code code\Week4\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.AssemblyInfoInputs.cache
+D:\code code\Week4\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.AssemblyInfo.cs
+D:\code code\Week4\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.csproj.CoreCompileInputs.cache
+D:\code code\Week4\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.dll
+D:\code code\Week4\OnlineOrdering\obj\Debug\net10.0\refint\OnlineOrdering.dll
+D:\code code\Week4\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.pdb
+D:\code code\Week4\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.genruntimeconfig.cache
+D:\code code\Week4\OnlineOrdering\obj\Debug\net10.0\ref\OnlineOrdering.dll

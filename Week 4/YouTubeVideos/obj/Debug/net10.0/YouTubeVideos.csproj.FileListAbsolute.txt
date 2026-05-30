@@ -1,0 +1,14 @@
+D:\code code\Week 4\YouTubeVideos\bin\Debug\net10.0\YouTubeVideos.exe
+D:\code code\Week 4\YouTubeVideos\bin\Debug\net10.0\YouTubeVideos.deps.json
+D:\code code\Week 4\YouTubeVideos\bin\Debug\net10.0\YouTubeVideos.runtimeconfig.json
+D:\code code\Week 4\YouTubeVideos\bin\Debug\net10.0\YouTubeVideos.dll
+D:\code code\Week 4\YouTubeVideos\bin\Debug\net10.0\YouTubeVideos.pdb
+D:\code code\Week 4\YouTubeVideos\obj\Debug\net10.0\YouTubeVideos.GeneratedMSBuildEditorConfig.editorconfig
+D:\code code\Week 4\YouTubeVideos\obj\Debug\net10.0\YouTubeVideos.AssemblyInfoInputs.cache
+D:\code code\Week 4\YouTubeVideos\obj\Debug\net10.0\YouTubeVideos.AssemblyInfo.cs
+D:\code code\Week 4\YouTubeVideos\obj\Debug\net10.0\YouTubeVideos.csproj.CoreCompileInputs.cache
+D:\code code\Week 4\YouTubeVideos\obj\Debug\net10.0\YouTubeVideos.dll
+D:\code code\Week 4\YouTubeVideos\obj\Debug\net10.0\refint\YouTubeVideos.dll
+D:\code code\Week 4\YouTubeVideos\obj\Debug\net10.0\YouTubeVideos.pdb
+D:\code code\Week 4\YouTubeVideos\obj\Debug\net10.0\YouTubeVideos.genruntimeconfig.cache
+D:\code code\Week 4\YouTubeVideos\obj\Debug\net10.0\ref\YouTubeVideos.dll
