@@ -1,0 +1,14 @@
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/bin/Debug/net10.0/Mindfulness
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/bin/Debug/net10.0/Mindfulness.deps.json
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/bin/Debug/net10.0/Mindfulness.runtimeconfig.json
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/bin/Debug/net10.0/Mindfulness.dll
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/bin/Debug/net10.0/Mindfulness.pdb
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/obj/Debug/net10.0/Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/obj/Debug/net10.0/Mindfulness.AssemblyInfoInputs.cache
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/obj/Debug/net10.0/Mindfulness.AssemblyInfo.cs
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/obj/Debug/net10.0/Mindfulness.csproj.CoreCompileInputs.cache
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/obj/Debug/net10.0/Mindfulness.dll
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/obj/Debug/net10.0/refint/Mindfulness.dll
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/obj/Debug/net10.0/Mindfulness.pdb
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/obj/Debug/net10.0/Mindfulness.genruntimeconfig.cache
+/Users/he1deng/Coding/CSE210/week05/Mindfulness/obj/Debug/net10.0/ref/Mindfulness.dll
