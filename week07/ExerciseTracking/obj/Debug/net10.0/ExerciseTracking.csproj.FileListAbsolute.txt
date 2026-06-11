@@ -1,0 +1,14 @@
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking.deps.json
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking.runtimeconfig.json
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking.dll
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking.pdb
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.AssemblyInfoInputs.cache
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.AssemblyInfo.cs
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.csproj.CoreCompileInputs.cache
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.dll
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/refint/ExerciseTracking.dll
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.pdb
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.genruntimeconfig.cache
+/Users/he1deng/Coding/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ref/ExerciseTracking.dll
