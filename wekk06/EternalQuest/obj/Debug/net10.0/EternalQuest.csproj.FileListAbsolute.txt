@@ -1,0 +1,14 @@
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/bin/Debug/net10.0/EternalQuest
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/bin/Debug/net10.0/EternalQuest.deps.json
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/bin/Debug/net10.0/EternalQuest.runtimeconfig.json
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/bin/Debug/net10.0/EternalQuest.dll
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/bin/Debug/net10.0/EternalQuest.pdb
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/obj/Debug/net10.0/EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/obj/Debug/net10.0/EternalQuest.AssemblyInfoInputs.cache
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/obj/Debug/net10.0/EternalQuest.AssemblyInfo.cs
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/obj/Debug/net10.0/EternalQuest.csproj.CoreCompileInputs.cache
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/obj/Debug/net10.0/EternalQuest.dll
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/obj/Debug/net10.0/refint/EternalQuest.dll
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/obj/Debug/net10.0/EternalQuest.pdb
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/obj/Debug/net10.0/EternalQuest.genruntimeconfig.cache
+/Users/he1deng/Coding/CSE210/week06/EternalQuest/obj/Debug/net10.0/ref/EternalQuest.dll
